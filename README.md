@@ -10,12 +10,11 @@ An interactive, sleek, and modern sorting algorithm visualizer built with React,
 
 ## 🚀 Live Demo
 
-[**Check out the live version here!**](https://your-live-demo-url.com)
+[**Check out the live version here!**](https://algorithm-visualizer-hazel-eight.vercel.app/)
 
 ## 📸 Screenshot
 
-![GlowSort Visualizer Studio Screenshot](https://via.placeholder.com/800x450.png?text=GlowSort+Visualizer+Studio)
-*(Replace this with a real screenshot of your application)*
+<img width="1264" height="638" alt="image" src="https://github.com/user-attachments/assets/b336a4fc-0ae3-41d5-a634-b839ddbf472c" />
 
 ## ✨ Features
 
